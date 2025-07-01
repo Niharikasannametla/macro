@@ -1,0 +1,1 @@
+select {{ add_sub(1, 2) }} 
